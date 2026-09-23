@@ -1,0 +1,9 @@
+{
+  "name": "base_game_web",
+  "private": true,
+  "workspaces": [
+    "game",
+    "server",
+    "shared"
+  ]
+}
